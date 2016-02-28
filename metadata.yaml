@@ -1,0 +1,26 @@
+_repo: The-Last-of-the-Huggermuggers_6914
+creator:
+  author:
+    agent_name: Cranch, Christopher Pearse
+    birthdate: 1813
+    deathdate: 1892
+    gutenberg_agent_id: '2252'
+    url: http://www.gutenberg.org/2009/agents/2252
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Pearse_Cranch
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Giants -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: The Last of the Huggermuggers
+url: http://www.gutenberg.org/ebooks/6914
